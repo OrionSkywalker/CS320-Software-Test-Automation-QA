@@ -1,5 +1,5 @@
 # CS320-Software-Test-Automation-QA
-## This is a sample of some of my work completed while completing the Software Test Automation and QA course, CS-320, at SNHU during the fall of 2021.
+## This is a sample of some of my work completed while taking the Software Test Automation and QA course, CS-320, at SNHU during the fall of 2021.
 ## Course Reflection:
 * ## How can I ensure that my code, program, or software is functional and secure?
 * ### I ensure that my code is functional and secure by developing code that meets the requirements and that has been verified to do so.
